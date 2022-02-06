@@ -15,9 +15,6 @@ dependencies:
   flutter_color: any
   flutter_native_splash: any
   http: ^0.13.4
-  provider: ^6.0.2
-  wakelock: any
-
 
 dev_dependencies:
   async: ^2.8.2
